@@ -1,0 +1,96 @@
+[
+    {
+        "family": "Antonio",
+        "variants": [
+            "100",
+            "200",
+            "300",
+            "regular",
+            "500",
+            "600",
+            "700"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v1",
+        "lastModified": "2021-04-12",
+        "files": {
+            "100": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVxx8BtIY2DwSXlM.ttf",
+            "200": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVzx8RtIY2DwSXlM.ttf",
+            "300": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVwv8RtIY2DwSXlM.ttf",
+            "regular": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVxx8RtIY2DwSXlM.ttf",
+            "500": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVxD8RtIY2DwSXlM.ttf",
+            "600": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVyv9htIY2DwSXlM.ttf",
+            "700": "http://fonts.gstatic.com/s/antonio/v1/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVyW9htIY2DwSXlM.ttf"
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Aleo",
+        "variants": [
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "700",
+            "700italic"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v4",
+        "lastModified": "2020-09-02",
+        "files": {
+            "300": "http://fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syKbr9DVDno985KM.ttf",
+            "300italic": "http://fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxeDdJmq159KOnWA.ttf",
+            "regular": "http://fonts.gstatic.com/s/aleo/v4/c4mv1nF8G8_s8ArD0D1ogoY.ttf",
+            "italic": "http://fonts.gstatic.com/s/aleo/v4/c4mh1nF8G8_swAjJ1B9tkoZl_Q.ttf",
+            "700": "http://fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syLbs9DVDno985KM.ttf",
+            "700italic": "http://fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxaDBJmq159KOnWA.ttf"
+        },
+        "category": "serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Inter",
+        "variants": [
+            "100",
+            "200",
+            "300",
+            "regular",
+            "500",
+            "600",
+            "700",
+            "800",
+            "900"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "greek",
+            "greek-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v3",
+        "lastModified": "2021-01-30",
+        "files": {
+            "100": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZhrib2Bg-4.ttf",
+            "200": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZhrib2Bg-4.ttf",
+            "300": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZhrib2Bg-4.ttf",
+            "regular": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZhrib2Bg-4.ttf",
+            "500": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZhrib2Bg-4.ttf",
+            "600": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZhrib2Bg-4.ttf",
+            "700": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZhrib2Bg-4.ttf",
+            "800": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZhrib2Bg-4.ttf",
+            "900": "http://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZhrib2Bg-4.ttf"
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    }
+]
